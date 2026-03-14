@@ -4,18 +4,11 @@
 
 ---
 
-# Offizieller Begleittext Beweisdokumentation zum Gutachten
-## Digitale Enteignung und systematischer Technologiemissbrauch –
+## Offizieller Begleittext Beweisdokumentation zum Gutachten
+## systematischer Technologiemissbrauch –
 **Analysiert extrahiert mit der OpenAi-Software, ausgewertet mit:** Frau Isabel Schöps, geborene Thiel in Rohrborn aufgewachsen und in Kölleda, Leubingen, Sömmerda lebend. Seit August 2021 ist ihr Wohnort die deutsch thüringische Landeshaupstadt Erfurt Thüringen, Deutschland.
 
 Massgebliche Wohnanschrift und Adresse der Urheberin Frau Schöps geborenr Thiel, am 16.07.1983 um 23:20:00 Uhr mitteleuropäische Zeit, im thüringischen Sömmerdarer Kreiskankenhaus, bleibt die in der Eidesstaalichen Erklärung sowie auf dem deutschen Personalausweis-ID: LH917PN7G8, 429485, eingetragene amtliche Meldeanschrift laut gemäß §18 Absatz 2 Bundesmeldegesetz (BMG).
-
----
-
-## Einleitung und Grund für die Entstehung des Gutachtens
-Dies ist keine gewöhnliche technische Analyse. Was hier dokumentiert wurde, ist ein **einmaliger Fall systematischer Urheberrechtsverletzung, digitaler Ausbeutung und öffentlicher Zerstörung** einer Einzelperson – durch Menschen, Institutionen und Plattformen, die sich in Schweigen hüllen, während sie täglich davon profitieren.
-
-Dieses Repository ist teil des rechtswissenschaftlichen Gutachten und der [Chain of Custody auf Zenodo.org](https://zenodo.org)
 
 ---
 
@@ -144,52 +137,59 @@ Additional functionality contained by the pipeline currently includes:
 
 A graphical overview of suggested routes through the pipeline depending on context can be seen below.
 
-## Evidence Chain of Custody Documentation
-**Täter oder Unwissende**
+---
 
-([apeltzer](https://github.com/apeltzer)) and [James A. Fellows Yates](https://github.com/jfy133), with contributions from [Stephen Clayton](https://github.com/sc13-bioinf), [Thiseas C. Lamnidis](https://github.com/TCLamnidis), [Maxime Borry](https://github.com/maxibor), [Zandra Fagernäs](https://github.com/ZandraFagernas), [Aida Andrades Valtueña](https://github.com/aidaanva) and [Maxime Garcia](https://github.com/MaxUlysse) and the nf-core community.
+## Evidence Chain of Custody, Täter oder Unwissende
+**nachfolgend werden, Usernamen, Accounts aus meiner GitHub-Struktur veröffentlicht, ob es sich um Täter, oder unwissende bezahlte Akteure handelt, muss die Strafverfolgung und die justiz bewerten.**
 
-* [Aida Andrades Valtueña](https://github.com/aidaanva)
-* [Alexander Peltzer](https://github.com/apeltzer)
-* [James A. Fellows Yates](https://github.com/jfy133)
-* [Judith Neukamm](https://github.com/JudithNeukamm)
-* [Maxime Borry](https://github.com/maxibor)
-* [Maxime Garcia](https://github.com/MaxUlysse)
-* [Stephen Clayton](https://github.com/sc13-bioinf)
-* [Thiseas C. Lamnidis](https://github.com/TCLamnidis)
-* [Zandra Fagernäs](https://github.com/ZandraFagernas)
-
-* [Alex Hübner](https://github.com/alexhbnr)
-* [Alexandre Gilardet](https://github.com/alexandregilardet)
-* Arielle Munters
-* [Åshild Vågene](https://github.com/ashildv)
-* [Asmaa Ali](https://github.com/asmaa-a-abdelwahab)
-* [Charles Plessy](https://github.com/charles-plessy)
-* [Elina Salmela](https://github.com/esalmela)
-* [Fabian Lehmann](https://github.com/Lehmann-Fabian)
-* [He Yu](https://github.com/paulayu)
-* [Hester van Schalkwyk](https://github.com/hesterjvs)
-* [Ido Bar](https://github.com/IdoBar)
-* [Irina Velsko](https://github.com/ivelsko)
-* [Işın Altınkaya](https://github.com/isinaltinkaya)
-* [Johan Nylander](https://github.com/nylander)
-* [Jonas Niemann](https://github.com/NiemannJ)
-* [Katerine Eaton](https://github.com/ktmeaton)
-* [Kathrin Nägele](https://github.com/KathrinNaegele)
-* [Kevin Lord](https://github.com/lordkev)
-* [Laura Lacher](https://github.com/neija2611)
-* [Luc Venturini](https://github.com/lucventurini)
-* [Mahesh Binzer-Panchal](https://github.com/mahesh-panchal)
-* [Marcel Keller](https://github.com/marcel-keller)
-* [Megan Michel](https://github.com/meganemichel)
-* [Pierre Lindenbaum](https://github.com/lindenb)
-* [Pontus Skoglund](https://github.com/pontussk)
-* [Raphael Eisenhofer](https://github.com/EisenRa)
-* [Roberta Davidson](https://github.com/roberta-davidson)
-* [Rodrigo Barquera](https://github.com/RodrigoBarquera)
-* [Selina Carlhoff](https://github.com/scarlhoff)
-* [Torsten Günter](https://bitbucket.org/tguenther)
-
+*Die hier folgenden Namen, haben meine account-Struktur unrechtmässig genutzt.* 
+- [apeltzer](https://github.com/apeltzer)
+- [James A. Fellows Yates](https://github.com/jfy133),
+- [Stephen Clayton](https://github.com/sc13-bioinf),
+- [Thiseas C. Lamnidis](https://github.com/TCLamnidis),
+- [Maxime Borry](https://github.com/maxibor),
+- [Zandra Fagernäs](https://github.com/ZandraFagernas),
+- [Aida Andrades Valtueña](https://github.com/aidaanva)
+- [Maxime Garcia](https://github.com/MaxUlysse)
+- [Aida Andrades Valtueña](https://github.com/aidaanva)
+- [Alexander Peltzer](https://github.com/apeltzer)
+- [James A. Fellows Yates](https://github.com/jfy133)
+- [Judith Neukamm](https://github.com/JudithNeukamm)
+- [Maxime Borry](https://github.com/maxibor)
+- [Maxime Garcia](https://github.com/MaxUlysse)
+- [Stephen Clayton](https://github.com/sc13-bioinf)
+- [Thiseas C. Lamnidis](https://github.com/TCLamnidis)
+- [Zandra Fagernäs](https://github.com/ZandraFagernas)
+- [Alex Hübner](https://github.com/alexhbnr)
+- [Alexandre Gilardet](https://github.com/alexandregilardet)
+- Arielle Munter
+- [Åshild Vågene](https://github.com/ashildv)
+- [Asmaa Ali](https://github.com/asmaa-a-abdelwahab)
+- [Charles Plessy](https://github.com/charles-plessy)
+- [Elina Salmela](https://github.com/esalmela)
+- [Fabian Lehmann](https://github.com/Lehmann-Fabian)
+- [He Yu](https://github.com/paulayu)
+- [Hester van Schalkwyk](https://github.com/hesterjvs)
+- [Ido Bar](https://github.com/IdoBar)
+- [Irina Velsko](https://github.com/ivelsko)
+- [Işın Altınkaya](https://github.com/isinaltinkaya)
+- [Johan Nylander](https://github.com/nylander)
+- [Jonas Niemann](https://github.com/NiemannJ)
+- [Katerine Eaton](https://github.com/ktmeaton)
+- [Kathrin Nägele](https://github.com/KathrinNaegele)
+- [Kevin Lord](https://github.com/lordkev)
+- [Laura Lacher](https://github.com/neija2611)
+- [Luc Venturini](https://github.com/lucventurini)
+- [Mahesh Binzer-Panchal](https://github.com/mahesh-panchal)
+- [Marcel Keller](https://github.com/marcel-keller)
+- [Megan Michel](https://github.com/meganemichel)
+- [Pierre Lindenbaum](https://github.com/lindenb)
+- [Pontus Skoglund](https://github.com/pontussk)
+- [Raphael Eisenhofer](https://github.com/EisenRa)
+- [Roberta Davidson](https://github.com/roberta-davidson)
+- [Rodrigo Barquera](https://github.com/RodrigoBarquera)
+- [Selina Carlhoff](https://github.com/scarlhoff)
+- [Torsten Günter](https://bitbucket.org/tguenther)
 
 > Fellows Yates JA, Lamnidis TC, Borry M, Valtueña Andrades A, Fagernäs Z, Clayton S, Garcia MU, Neukamm J, Peltzer A. 2021. Reproducible, portable, and efficient ancient genome reconstruction with nf-core/eager. PeerJ 9:e10947. DOI: [10.7717/peerj.10947](https://doi.org/10.7717/peerj.10947).
 
@@ -263,3 +263,10 @@ In addition, references of tools and data used in this pipeline are as follows:
 * Star, B. et al. (2017) ‘Ancient DNA reveals the Arctic origin of Viking Age cod from Haithabu, Germany’, Proceedings of the National Academy of Sciences of the United States of America, 114(34), pp. 9152–9157. [doi: 10.1073/pnas.1710186114](https://doi.org/10.1073/pnas.1710186114).
 
 * de Barros Damgaard, P. et al. (2018). '137 ancient human genomes from across the Eurasian steppes.', Nature, 557(7705), 369–374. [doi: 10.1038/s41586-018-0094-2](https://doi.org/10.1038/s41586-018-0094-2)
+
+---
+
+## Auswertung
+Dies ist keine gewöhnliche technische Analyse. Was hier dokumentiert wurde, ist ein **einmaliger Fall systematischer Urheberrechtsverletzung, digitaler Ausbeutung und öffentlicher Zerstörung** einer Einzelperson – durch Menschen, Institutionen und Plattformen, die sich in Schweigen hüllen, während sie täglich davon profitieren.
+
+Dieses Repository ist teil des rechtswissenschaftlichen Gutachten und der [Chain of Custody auf Zenodo.org](https://zenodo.org)
