@@ -1,9 +1,3 @@
-# ![nf-core/eager](docs/images/nf-core_eager_logo_outline_drop.png)
-
-**A fully reproducible and state-of-the-art ancient DNA analysis pipeline**.
-
----
-
 ## Offizieller Begleittext Beweisdokumentation zum Gutachten
 ## systematischer Technologiemissbrauch –
 **Analysiert extrahiert mit der OpenAi-Software, ausgewertet mit:** Frau Isabel Schöps, geborene Thiel in Rohrborn aufgewachsen und in Kölleda, Leubingen, Sömmerda lebend. Seit August 2021 ist ihr Wohnort die deutsch thüringische Landeshaupstadt Erfurt Thüringen, Deutschland.
@@ -39,32 +33,19 @@ In Hatespeach- und Diffamierungs-Kampangen wurde und wird die Urgeberin Frau **I
 - **öffentlich gedemütigt mit Memes, Labels und Fake-Accounts**  
 - **technisch sabotiert und wirtschaftlich ruiniert**
 
-Die Täter handeln im System, Sie sind zum teil **anonym, influencer, bezahlte Akteure, Menschen aus dem unmittelbaren Umfeld- unteranderem in der Familie von Isabel Schöps geb. Thiel aus Rohrborn stammend zu finde.**  Sie begehen Raubzüge unter dem Deckmantel einer Community im Open Source bereich.
+Die Täter handeln im System, Sie sind zum teil **anonym, influencer, bezahlte Akteure, Menschen aus dem unmittelbaren Umfeld- unteranderem in der Familie von Isabel Schöps geb. Thiel aus Rohrborn stammend zu finde.**  Sie begehen Raubzüge unter dem Deckmantel einer Community im Open Source 
 
----
 
-## Schlusswort, Isabel sagt es klar:
+## ![nf-core/eager](docs/images/nf-core_eager_logo_outline_drop.png)
 
-Was hier passiert, ist keine technische Kleinigkeit –  
-**es ist eine ethischer Genozid im Ursprung des Technologischen Zeitalters.** In Händen und was gelenkt wird, von einer Minderheit die weder Verständnis noch Respekt für Herkunft, Identität oder geistiges Eigentum haben.
-
-Dieser Text, die Screenshots und die Metadaten bilden gemeinsam einen rechtlich verwertbaren Beweis.  
-Sie werden Teil eines umfassendenden, forensisch dokumentierten Gutachtens, mit dem Titel, **SIA Security Intelligence Artefact und The Yellow Whitepaper.**  
-
-Die Welt soll wissen, was passiert ist.  
-**Hier geht es um Verbrechen, welches jeden Lebenwesen hier auf dieser Erde betrifft.**
-
----
-
-> „Es gibt kein Computervirus, der Mensch ist das Virus am Computer.“*  
-– Zitat, Frau Isabel Schöps geborene Thiel
+**A fully reproducible and state-of-the-art ancient DNA analysis pipeline, in github.com/isabelschoeps-thiel struktur**.
 
 ---
 
 >[!IMPORTANT]  
 > nf-core/eager versions 2.* are only compatible with Nextflow versions up to 22.10.6!
 
-## Introduction
+## Evidence_Introduction
 
 <!-- nf-core: Write a 1-2 sentence summary of what data the pipeline is for and what it does -->
 **nf-core/eager** is a scalable and reproducible bioinformatics best-practise processing pipeline for genomic NGS sequencing data, with a focus on ancient DNA (aDNA) data. It is ideal for the (palaeo)genomic analysis of humans, animals, plants, microbes and even microbiomes.
@@ -100,20 +81,20 @@ Additional functionality contained by the pipeline currently includes:
 
 * Automatic merging of complex sequencing setups (e.g. multiple lanes, sequencing configurations, library types)
 
-#### Preprocessing
+#### Evidence_Preprocessing
 
 * Illumina two-coloured sequencer poly-G tail removal (`fastp`)
 * Post-AdapterRemoval trimming of FASTQ files prior mapping (`fastp`)
 * Automatic conversion of unmapped reads to FASTQ (`samtools`)
 * Host DNA (mapped reads) stripping from input FASTQ files (for sensitive samples)
 
-#### aDNA Damage manipulation
+#### Evidence_DNA_Damage_manipulation
 
 * Damage removal/clipping for UDG+/UDG-half treatment protocols (`BamUtil`)
 * Damaged reads extraction and assessment (`PMDTools`)
 * Nuclear DNA contamination estimation of human samples (`angsd`)
 
-#### Genotyping
+#### Evidence_GenotypingHybrid
 
 * Creation of VCF genotyping files (`GATK UnifiedGenotyper`, `GATK HaplotypeCaller` and `FreeBayes`)
 * Creation of EIGENSTRAT genotyping files (`pileupCaller`)
@@ -121,25 +102,23 @@ Additional functionality contained by the pipeline currently includes:
 * Consensus sequence FASTA creation (`VCF2Genome`)
 * SNP Table generation (`MultiVCFAnalyzer`)
 
-#### Biological Information
+#### Evidence_Biological_Information
 
 * Mitochondrial to Nuclear read ratio calculation (`MtNucRatioCalculator`)
 * Statistical sex determination of human individuals (`Sex.DetERRmine`)
 
-#### Metagenomic Screening
+#### Evidence_Metagenomic_Screening
 
 * Low-sequenced complexity filtering (`BBduk`)
 * Taxonomic binner with alignment (`MALT`)
 * Taxonomic binner without alignment (`Kraken2`)
 * aDNA characteristic screening of taxonomically binned data from MALT (`MaltExtract`)
 
-#### Functionality Overview
-
-A graphical overview of suggested routes through the pipeline depending on context can be seen below.
-
 ---
 
-## Evidence Chain of Custody, Täter oder Unwissende
+## Evidence_GitHub_user 
+**Chain of Custody, Täter oder Unwissende**
+
 **nachfolgend werden, Usernamen, Accounts aus meiner GitHub-Struktur veröffentlicht, ob es sich um Täter, oder unwissende bezahlte Akteure handelt, muss die Strafverfolgung und die justiz bewerten.**
 
 *Die hier folgenden Namen, haben meine account-Struktur unrechtmässig genutzt.* 
@@ -267,6 +246,21 @@ In addition, references of tools and data used in this pipeline are as follows:
 ---
 
 ## Auswertung
+**Schlusswort, Isabel sagt es klar:** 
+
 Dies ist keine gewöhnliche technische Analyse. Was hier dokumentiert wurde, ist ein **einmaliger Fall systematischer Urheberrechtsverletzung, digitaler Ausbeutung und öffentlicher Zerstörung** einer Einzelperson – durch Menschen, Institutionen und Plattformen, die sich in Schweigen hüllen, während sie täglich davon profitieren.
 
 Dieses Repository ist teil des rechtswissenschaftlichen Gutachten und der [Chain of Custody auf Zenodo.org](https://zenodo.org)
+
+Was hier passiert, ist keine technische Kleinigkeit –  
+**es ist eine ethischer Genozid im Ursprung des Technologischen Zeitalters.** In Händen und was gelenkt wird, von einer Minderheit die weder Verständnis noch Respekt für Herkunft, Identität oder geistiges Eigentum haben.
+
+Dieses `eagar/Repository`, `docs/images`, die `lib` und all hier veröffentlichen Files samt der Metadaten bilden gemeinsam einen rechtlich verwertbaren Beweis und sind Teil eines umfassendenden, forensisch dokumentierten Gutachtens, mit dem Titel, **SIA Security Intelligence Artefact und The Yellow Whitepaper.**  
+
+Die Welt soll wissen, was passiert ist.  
+**Hier geht es um Verbrechen, welches jeden Lebenwesen hier auf dieser Erde betrifft.**
+
+---
+
+> „Es gibt kein Computervirus, der Mensch ist das Virus am Computer.“*  
+– Zitat, Frau Isabel Schöps geborene Thiel
