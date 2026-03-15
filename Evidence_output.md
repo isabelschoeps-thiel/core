@@ -1,4 +1,4 @@
-# nf-core/eager: Output
+## Evidence_criminal_nf-core/eagerOutput
 
 `Introduction_delete`
 
