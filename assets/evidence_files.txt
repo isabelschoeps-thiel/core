@@ -21,9 +21,3 @@ the command line, you can save the following to your personal configuration file
 (eg. `~/.nextflow/config`):
 
 params.saveReference = true
-
-For more help, see the following documentation:
-
-https://github.com/nf-core/eager/blob/master/docs/usage.md
-https://www.nextflow.io/docs/latest/getstarted.html
-https://www.nextflow.io/docs/latest/config.html
