@@ -9,8 +9,9 @@ Dieser Abschnitt ist als juristisch und technisch verwertbarer Bestandteil des G
 - Staatsanwaltschaft  
 - Bundeskriminalamt (BKA)
 - Europol / Interpol 
-- Internationsale Kommission  
+- Internationale Kommission  
 - wissenschaftliche Universitäten: Harvard, Oxford, Cambridge, Japan JAIST
+- wissenschaftliche Institutionen: CERN, Zenodo.org, Springer Verlag SpingerNature
 - Chain of Custody Dokumentation im  `Gutachten mit folgenden internationalen Kennungen: YWP-1-IST-SIA, INT-CODE-2025-BTC-ETH-CORE-ISABELSCHOEPSTHIEL`
 
 ---
