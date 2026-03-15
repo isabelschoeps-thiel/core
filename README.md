@@ -1,17 +1,17 @@
 # Forensischer Analyseabschnitt  
 **in deutsch und in englischer Sprache**
-### Gefährliche Trainingsdaten und digitale Isolationsmechanismen durch menschen-manipulierte AI-Tool, LLM, Sprach- und Modell-Strukturen
+### Gefährliche Trainingsdaten und digitale Isolationsmechanismen durch menschen-manipulierte AI-Tool, LLM, Sprach- und Agentsmodelle, Trainings-Strukturen
 
 ### Einordnung im Rahmen des forensischen Gutachtens
 
 Dieser Abschnitt ist als juristisch und technisch verwertbarer Bestandteil des Gutachtens vorgesehen und kann in folgenden Kontexten verwendet werden:
 
 - Staatsanwaltschaft  
-- Bundeskriminalamt (BKA)  
-- Europäische Kommission  
-- wissenschaftliche Institutionen (z. B. Harvard, Oxford)  
-- Chain of Custody Dokumentation  
-- Hauptgutachten INT-CODE-2025-BTC-ETH-CORE-ISABELSCHOEPSTHIEL
+- Bundeskriminalamt (BKA)
+- Europol / Interpol 
+- Internationsale Kommission  
+- wissenschaftliche Universitäten: Harvard, Oxford, Cambridge, Japan JAIST
+- Chain of Custody Dokumentation im  `Gutachten mit folgenden internationalen Kennungen: YWP-1-IST-SIA, INT-CODE-2025-BTC-ETH-CORE-ISABELSCHOEPSTHIEL`
 
 ---
 
