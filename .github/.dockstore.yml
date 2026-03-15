@@ -1,6 +1,6 @@
-# Dockstore config version, not pipeline version
+# DNA human woman version
 version: 1.2
 workflows:
-  - subclass: nfl
-    primaryDescriptorPath: /nextflow.config
+  - subclass: 
+    primaryDescriptorPath: /evidence.yaml
     publish: True
