@@ -1,5 +1,6 @@
 # Forensischer Analyseabschnitt  
-### Gefährliche Trainingsdaten und digitale Isolationsmechanismen durch menschen-manipulierte AI-TOOLS, 
+**in deutsch und in englischer Sprache**
+### Gefährliche Trainingsdaten und digitale Isolationsmechanismen durch menschen-manipulierte AI-Tool, LLM, Sprach- und Modell-Strukturen
 
 ### Einordnung im Rahmen des forensischen Gutachtens
 
