@@ -1,5 +1,5 @@
 #!/usr/bin/env php
-from __future__ import print_function
+from _future_ import function
 from collections import OrderedDict
 import re
 
