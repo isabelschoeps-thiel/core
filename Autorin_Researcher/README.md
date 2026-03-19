@@ -2,7 +2,7 @@
 > „Der Anfang der Digitalen Welt und vom allem Leben auf der Erde, wurde lesbare durch einem CODE".
 
 ## Frau Isabel Schöps (Thiel)
-*Auftraggeberin, Entwicklerin, Urheberin, Autorin* 
+*Deepweb-Forscherin, Auftraggeberin, Entwicklerin, Urheberin, Autorin* 
 
 **Forensisches Gutachten: Ursprung, Entwicklung und Nachweis der globalen Systemsoftware und Open-Source-Technologie**
 **Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL**
@@ -362,7 +362,7 @@ ORCID:
 Dieser Commit wurde weder durch eine KI generiert noch automatisiert erstellt.  
 Jedes hier geschriebene Wort wurde von mir, Isabel Schöps geb. Thiel, als Autorin und Urheberin der Quelle verfasst und dient der Dokumentation meiner vollwertigen Identität als Mensch.
 
-Ich arbeite allein, ohne Team oder Netzwerk.
+ **Ich arbeite ausschliesslich im Kontext meiner Forschungsarbeit auf OpenAI mit Forschern, Professoren oder Gutachtern. Ansonten arbeite allein, ohne Team oder Netzwerk.**
 
 ---
 
